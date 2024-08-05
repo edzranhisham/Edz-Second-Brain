@@ -11,8 +11,15 @@
             "id": "cebfc9328f52002a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "AWS Cloud Practitioner/Canvas.canvas",
+                "viewState": {
+                  "x": 495.48148982450556,
+                  "y": -452.3329772504083,
+                  "zoom": -0.7625778813381039
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "AWS Cloud Practitioner/Canvas.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "AWS Cloud Practitioner/Canvas.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +116,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "AWS Cloud Practitioner/Canvas.canvas"
+          }
         }
       }
     ],
@@ -123,7 +134,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6f337875ba80cf3",
+  "active": "cebfc9328f52002a",
   "lastOpenFiles": [
     "Lalalal.md",
     "Test.md",
