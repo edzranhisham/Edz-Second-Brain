@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ad7c8e512a4c7236",
+        "id": "5d51db8c7eaecd15",
         "type": "tabs",
         "children": [
           {
-            "id": "89236417d60fd669",
+            "id": "af019618f98943f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Lalalal.md",
-                "mode": "source",
-                "source": false
+                "file": "AWS Cloud Practitioner/Canvas.canvas",
+                "viewState": {
+                  "x": 1027.9565400956903,
+                  "y": -1027.7876384021654,
+                  "zoom": -0.6002941544771471
+                }
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9edff97d4868c56c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f9ebed0fd0f751c6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lalalal.md",
+                "file": "AWS Cloud Practitioner/Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lalalal.md",
+                "file": "AWS Cloud Practitioner/Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lalalal.md"
+                "file": "AWS Cloud Practitioner/Canvas.canvas"
               }
             }
           }
@@ -160,10 +149,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89236417d60fd669",
+  "active": "af019618f98943f9",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud",
+    "AWS Cloud Practitioner/Module 1. Cloud Computing/What is Cloud Computing.md",
+    "AWS Cloud Practitioner/Module 1. Cloud Computing/6 Advantages of Cloud Computing.md",
+    "AWS Cloud Practitioner/Module 1. Cloud Computing/Deployment Models/Cloud-Based.md",
+    "AWS Cloud Practitioner/Module 1. Cloud Computing/Deployment Models/On-Premises.md",
+    "AWS Cloud Practitioner/Module 1. Cloud Computing/Deployment Models/Hybrid.md",
+    "AWS Cloud Practitioner/Canvas.canvas",
+    "Untitled.canvas",
     "Welcome.md",
-    "Lalalal.md",
+    "README.md",
+    "AWS Cloud Practitioner/Cloud Computing/Deployment Models/Rationale.md",
+    "AWS Cloud Practitioner/Cloud Computing/Deployment Models.md",
+    "AWS Cloud Practitioner/Module 1. Cloud Computing/Deployment Models",
+    "AWS Cloud Practitioner/Module 1. Cloud Computing",
+    "AWS Cloud Practitioner",
     "Test.md",
     "Test Note 30 July 2024.md",
     "Edz-Second-Brain/README.md",

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"4ede9582a015cb70","type":"file","file":"AWS Cloud Practitioner/Module 1. Cloud Computing/Deployment Models/Cloud-Based.md","x":-214,"y":-509,"width":400,"height":400},
+		{"id":"e634d74faa6a2f82","type":"file","file":"AWS Cloud Practitioner/Module 1. Cloud Computing/Deployment Models/Hybrid.md","x":231,"y":-509,"width":400,"height":400},
+		{"id":"8a48d49b09798938","type":"file","file":"AWS Cloud Practitioner/Module 1. Cloud Computing/Deployment Models/On-Premises.md","x":676,"y":-509,"width":400,"height":400},
+		{"id":"3ade7c0e5eeaeb5f","type":"text","text":"### <center>**Deployment Models**</center>\n","x":306,"y":-740,"width":325,"height":60},
+		{"id":"383247060bb2b792","type":"text","text":"### <center>**Cloud Computing**</center>\n\n[[What is Cloud Computing]]\n[[6 Advantages of Cloud Computing]]","x":306,"y":-900,"width":325,"height":120},
+		{"id":"1200c40870fe0f2d","type":"text","text":"# <center>AWS Cloud Practitioner</center>\n","x":359,"y":-1040,"width":219,"height":80,"color":"2"},
+		{"id":"8344d5d3348192e5","type":"text","text":"### <center>**Compute in the Cloud**</center>","x":840,"y":-1030,"width":325,"height":60}
+	],
+	"edges":[
+		{"id":"ee0a3422bcb42073","fromNode":"383247060bb2b792","fromSide":"bottom","toNode":"3ade7c0e5eeaeb5f","toSide":"top"},
+		{"id":"7fdd23d5e641c4d8","fromNode":"3ade7c0e5eeaeb5f","fromSide":"bottom","toNode":"4ede9582a015cb70","toSide":"top"},
+		{"id":"0e14de76ef8ae658","fromNode":"3ade7c0e5eeaeb5f","fromSide":"bottom","toNode":"e634d74faa6a2f82","toSide":"top"},
+		{"id":"2a9b9fd2848f9d40","fromNode":"3ade7c0e5eeaeb5f","fromSide":"bottom","toNode":"8a48d49b09798938","toSide":"top"},
+		{"id":"7c922f4a6ca415bc","fromNode":"1200c40870fe0f2d","fromSide":"bottom","toNode":"383247060bb2b792","toSide":"top"},
+		{"id":"9454d0be9a3ff712","fromNode":"1200c40870fe0f2d","fromSide":"right","toNode":"8344d5d3348192e5","toSide":"left"}
+	]
+}
