@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "be7d865771229e74",
+        "id": "b48c6fdc4307f4fd",
         "type": "tabs",
         "children": [
           {
-            "id": "cebfc9328f52002a",
+            "id": "f1bb591ff4fa33a6",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "AWS Cloud Practitioner/Canvas.canvas",
                 "viewState": {
-                  "x": 495.48148982450556,
-                  "y": -452.3329772504083,
-                  "zoom": -0.7625778813381039
+                  "x": 546.1174106098044,
+                  "y": -453.7065242100616,
+                  "zoom": -0.9091950897295892
                 }
               }
             }
@@ -134,8 +134,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cebfc9328f52002a",
+  "active": "f1bb591ff4fa33a6",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "AWS Cloud Practitioner/Canvas.canvas",
     "Lalalal.md",
     "Test.md",
     "Welcome.md",
