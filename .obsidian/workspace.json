@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5d51db8c7eaecd15",
+        "id": "2cfaf76a46848279",
         "type": "tabs",
         "children": [
           {
-            "id": "af019618f98943f9",
+            "id": "6d2729b601317f1e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "AWS Cloud Practitioner/Canvas.canvas",
                 "viewState": {
-                  "x": 1027.9565400956903,
-                  "y": -1027.7876384021654,
-                  "zoom": -0.6002941544771471
+                  "x": 2127.507935353706,
+                  "y": -981.239043089647,
+                  "zoom": -1.1428687030120546
                 }
               }
             }
@@ -72,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 360.5
   },
   "right": {
     "id": "6116dbeaf6b4870d",
@@ -149,26 +149,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af019618f98943f9",
+  "active": "6d2729b601317f1e",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Messaging and Queuing/Coupled vs Decoupled Architecture/Microservices Approach.md",
+    "AWS Cloud Practitioner/Canvas.canvas",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Scaling Amazon EC2/Auto Scaling.md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Pricing/Reserved Instances.md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Pricing/On-Demand.md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Additional Compute Services/Containers/Amazon ECS (Elastic Container Service).md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Additional Compute Services/Containers/Amazon EKS (Elastic Kubernetes Service).md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Additional Compute Services/Containers/AWS Fargate.md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Additional Compute Services/AWS Lambda.md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Additional Compute Services/Containers",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Messaging and Queuing/Amazon SQS (Simple Queue Service).md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Additional Compute Services",
+    "Pasted image 20240807211710.png",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Messaging and Queuing/Amazon SNS (Simple Notification Service).md",
+    "Pasted image 20240807211623.png",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Messaging and Queuing/Untitled",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Messaging and Queuing/Coupled vs Decoupled Architecture/Monolithic Approach.md",
+    "Pasted image 20240807211416.png",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Messaging and Queuing/Coupled vs Decoupled Architecture",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Directing Traffic with Elastic Load Balancing/Elastic Load Balancing.md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Messaging and Queuing",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Directing Traffic with Elastic Load Balancing/Exaple.md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Directing Traffic with Elastic Load Balancing",
+    "Pasted image 20240807210913.png",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Pricing/Dedicated Hosts.md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Scaling Amazon EC2",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Pricing/Spot Instances.md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Pricing/EC2 Instance Savings Plans.md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Instance Type/Storage Optimized.md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Pricing",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Instance Type/Accelerated Computing.md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Instance Type/Memory Optimized.md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Instance Type/General Purpose.md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Instance Type/Compute Optimized.md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Instance Types.md",
+    "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Instance Type",
     "AWS Cloud Practitioner/Module 2. Compute in The Cloud",
     "AWS Cloud Practitioner/Module 1. Cloud Computing/What is Cloud Computing.md",
     "AWS Cloud Practitioner/Module 1. Cloud Computing/6 Advantages of Cloud Computing.md",
     "AWS Cloud Practitioner/Module 1. Cloud Computing/Deployment Models/Cloud-Based.md",
-    "AWS Cloud Practitioner/Module 1. Cloud Computing/Deployment Models/On-Premises.md",
-    "AWS Cloud Practitioner/Module 1. Cloud Computing/Deployment Models/Hybrid.md",
-    "AWS Cloud Practitioner/Canvas.canvas",
-    "Untitled.canvas",
-    "Welcome.md",
-    "README.md",
-    "AWS Cloud Practitioner/Cloud Computing/Deployment Models/Rationale.md",
-    "AWS Cloud Practitioner/Cloud Computing/Deployment Models.md",
-    "AWS Cloud Practitioner/Module 1. Cloud Computing/Deployment Models",
-    "AWS Cloud Practitioner/Module 1. Cloud Computing",
-    "AWS Cloud Practitioner",
-    "Test.md",
-    "Test Note 30 July 2024.md",
-    "Edz-Second-Brain/README.md",
-    "Edz-Second-Brain"
+    "Untitled.canvas"
   ]
 }
