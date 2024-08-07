@@ -25,13 +25,13 @@
 		{"id":"3bd6e30da3bf5766","type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Directing Traffic with Elastic Load Balancing/Elastic Load Balancing.md","x":2180,"y":-880,"width":400,"height":50},
 		{"id":"2e20a2eaf7d7f0e3","type":"text","text":"### <center>**Messaging and Queueing**</center>","x":1718,"y":-660,"width":325,"height":80},
 		{"id":"64f1ab24909a0797","type":"text","text":"### <center>**Additional Compute Services**</center>","x":1718,"y":-265,"width":325,"height":80},
-		{"id":"5d6ac4dff18a3457","x":2180,"y":-137,"width":400,"height":50,"type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Additional Compute Services/AWS Lambda.md"},
+		{"id":"5d6ac4dff18a3457","type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Additional Compute Services/AWS Lambda.md","x":2180,"y":-137,"width":400,"height":50},
 		{"id":"6e1f837c77903563","type":"text","text":"### <center>**Containers**</center>","x":2180,"y":-360,"width":400,"height":50},
-		{"id":"90701476c88f0e13","x":2180,"y":-740,"width":400,"height":96,"type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Messaging and Queuing/Amazon SNS (Simple Notification Service).md"},
-		{"id":"c73531e0ea9160c9","x":2180,"y":-620,"width":400,"height":88,"type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Messaging and Queuing/Amazon SQS (Simple Queue Service).md"},
-		{"id":"5309b1e03da7f515","x":2760,"y":-501,"width":400,"height":93,"type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Additional Compute Services/Containers/Amazon ECS (Elastic Container Service).md"},
-		{"id":"9d6f246f586dbccc","x":2760,"y":-376,"width":400,"height":83,"type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Additional Compute Services/Containers/Amazon EKS (Elastic Kubernetes Service).md"},
-		{"id":"83d1d6dbf9b1b3f6","x":2760,"y":-255,"width":400,"height":50,"type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Additional Compute Services/Containers/AWS Fargate.md"}
+		{"id":"90701476c88f0e13","type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Messaging and Queuing/Amazon SNS (Simple Notification Service).md","x":2180,"y":-740,"width":400,"height":96},
+		{"id":"c73531e0ea9160c9","type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Messaging and Queuing/Amazon SQS (Simple Queue Service).md","x":2180,"y":-620,"width":400,"height":88},
+		{"id":"5309b1e03da7f515","type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Additional Compute Services/Containers/Amazon ECS (Elastic Container Service).md","x":2760,"y":-501,"width":400,"height":93},
+		{"id":"9d6f246f586dbccc","type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Additional Compute Services/Containers/Amazon EKS (Elastic Kubernetes Service).md","x":2760,"y":-376,"width":400,"height":83},
+		{"id":"83d1d6dbf9b1b3f6","type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Additional Compute Services/Containers/AWS Fargate.md","x":2760,"y":-255,"width":400,"height":50}
 	],
 	"edges":[
 		{"id":"ee0a3422bcb42073","fromNode":"383247060bb2b792","fromSide":"bottom","toNode":"3ade7c0e5eeaeb5f","toSide":"top"},
