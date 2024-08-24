@@ -15,9 +15,9 @@
               "state": {
                 "file": "AWS Cloud Practitioner/Canvas.canvas",
                 "viewState": {
-                  "x": 2198.2737304106327,
-                  "y": -1200.866473355262,
-                  "zoom": -0.6818016408227708
+                  "x": 2022.783616480716,
+                  "y": -1464.5275566792302,
+                  "zoom": -0.8033013525894657
                 }
               }
             }
@@ -88,7 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Pricing/Reserved Instances.md",
+            "file": "AWS Cloud Practitioner/Canvas.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Pricing/Reserved Instances.md",
+            "file": "AWS Cloud Practitioner/Canvas.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +117,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Pricing/Reserved Instances.md"
+            "file": "AWS Cloud Practitioner/Canvas.canvas"
           }
         }
       }
