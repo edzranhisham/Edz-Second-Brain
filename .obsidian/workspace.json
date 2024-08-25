@@ -11,9 +11,24 @@
             "id": "6d2729b601317f1e",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "AWS Cloud Practitioner/Canvas.canvas",
+                "viewState": {
+                  "x": 790.3586435166062,
+                  "y": -1757.6181489798541,
+                  "zoom": -1.6666666666666665
+                }
+              }
+            }
+          },
+          {
+            "id": "9505b09554afe12c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services/Amazon DynamoDB Accelerator.md",
+                "file": "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon Redshift/Redshift.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services/Amazon DynamoDB Accelerator.md",
+                "file": "AWS Cloud Practitioner/Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services/Amazon DynamoDB Accelerator.md",
+                "file": "AWS Cloud Practitioner/Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services/Amazon DynamoDB Accelerator.md"
+                "file": "AWS Cloud Practitioner/Canvas.canvas"
               }
             }
           }
@@ -148,8 +163,11 @@
   },
   "active": "6d2729b601317f1e",
   "lastOpenFiles": [
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services/Amazon ElastiCache.md",
+    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon Redshift/Redshift.md",
+    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon Redshift",
+    "AWS Cloud Practitioner/Canvas.canvas",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services/Amazon DynamoDB Accelerator.md",
+    "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services/Amazon ElastiCache.md",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services/Amazon Managed Blockchain.md",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services/Amazone QLDB (Quantum Ledger Database).md",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services/Amazon Neptune.md",
@@ -161,7 +179,6 @@
     "AWS Cloud Practitioner/Module 5. Storage and Databases/AWS DMS (Database Migration Seervice)/AWS Database Migration Service.md",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/AWS DMS (Database Migration Seervice)/Other Use Cases",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/AWS DMS (Database Migration Seervice)/Other Use Cases.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon Redshift.md",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/AWS DMS (Database Migration Seervice)",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon DynamoDB/DynamoDB.md",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon Redshift",
@@ -183,13 +200,10 @@
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon S3 (Simple Storage Service)/Storage Classes/S3 Glacier Deep Archive.md",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon S3 (Simple Storage Service)/Storage Classes/S3 Glacier Flexible Retrieval.md",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon S3 (Simple Storage Service)/Storage Classes/S3 Glacier Instant Retrieval.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon S3 (Simple Storage Service)/Storage Classes/S3 Intelligent-Tiering.md",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon S3 (Simple Storage Service)/Storage Classes",
     "AWS Cloud Practitioner/Images/Pasted image 20240825141155.png",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon S3 (Simple Storage Service)",
     "AWS Cloud Practitioner/Images/Pasted image 20240825140637.png",
     "AWS Cloud Practitioner/Images/Pasted image 20240825140546.png",
-    "AWS Cloud Practitioner/Canvas.canvas",
     "AWS Cloud Practitioner/Images/Pasted image 20240809204407.png",
     "AWS Cloud Practitioner/Images/Pasted image 20240807210913.png",
     "AWS Cloud Practitioner/Images/Pasted image 20240809202827.png",
