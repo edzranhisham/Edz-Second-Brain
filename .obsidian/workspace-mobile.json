@@ -15,9 +15,9 @@
               "state": {
                 "file": "AWS Cloud Practitioner/Canvas.canvas",
                 "viewState": {
-                  "x": -2177.877546851938,
-                  "y": -1560.1707528302043,
-                  "zoom": -0.9990851779125991
+                  "x": 6.727040698894296,
+                  "y": -1499.4249218708387,
+                  "zoom": -1.4806802933724152
                 }
               }
             }
@@ -136,6 +136,7 @@
   },
   "active": "f1bb591ff4fa33a6",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner/Module 4. Networking/Subnets and Network Access Control List/Subnets.md",
     "AWS Cloud Practitioner/Canvas.canvas",
     "AWS Cloud Practitioner/Module 1. Cloud Computing/Deployment Models/Cloud-Based.md",
     "Pasted image 20240807211623.png",

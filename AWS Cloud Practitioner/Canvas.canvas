@@ -58,8 +58,7 @@
 		{"id":"e4a5ca7c39fd19b8","type":"file","file":"AWS Cloud Practitioner/Module 4. Networking/Subnets and Network Access Control List/Network traffic in a VPC.md","x":-2720,"y":-890,"width":400,"height":50},
 		{"id":"c1ceaf0c01653f4e","type":"file","file":"AWS Cloud Practitioner/Module 4. Networking/Subnets and Network Access Control List/Subnets.md","x":-2720,"y":-1215,"width":400,"height":50},
 		{"id":"0c69de5f6f7d21da","type":"text","text":"### <center>**Global Networking**</center>","x":-1795,"y":-1450,"width":325,"height":60},
-		{"id":"f283df6d7779b1e0","type":"file","file":"AWS Cloud Practitioner/Module 4. Networking/Global Networking/Amazon Route 53.md","x":-2417,"y":-1445,"width":400,"height":50},
-		{"id":"c558a5270e07ab0d","x":-525,"y":-2038,"width":250,"height":60,"type":"text","text":"test"}
+		{"id":"f283df6d7779b1e0","type":"file","file":"AWS Cloud Practitioner/Module 4. Networking/Global Networking/Amazon Route 53.md","x":-2417,"y":-1445,"width":400,"height":50}
 	],
 	"edges":[
 		{"id":"ee0a3422bcb42073","fromNode":"383247060bb2b792","fromSide":"bottom","toNode":"3ade7c0e5eeaeb5f","toSide":"top"},
