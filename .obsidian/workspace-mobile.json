@@ -11,8 +11,15 @@
             "id": "f1bb591ff4fa33a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "AWS Cloud Practitioner/Canvas.canvas",
+                "viewState": {
+                  "x": -2177.877546851938,
+                  "y": -1560.1707528302043,
+                  "zoom": -0.9990851779125991
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "AWS Cloud Practitioner/Canvas.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "AWS Cloud Practitioner/Canvas.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +116,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "AWS Cloud Practitioner/Canvas.canvas"
+          }
         }
       }
     ],
