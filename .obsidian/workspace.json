@@ -11,11 +11,14 @@
             "id": "6d2729b601317f1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "AWS Cloud Practitioner/Module 4. Networking/Global Networking/Amazon Route 53.md",
-                "mode": "source",
-                "source": false
+                "file": "AWS Cloud Practitioner/Canvas.canvas",
+                "viewState": {
+                  "x": 327.48536546199205,
+                  "y": -1786.4298287336285,
+                  "zoom": -1.6666666666666665
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner/Module 4. Networking/Global Networking/Amazon Route 53.md",
+                "file": "AWS Cloud Practitioner/Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner/Module 4. Networking/Global Networking/Amazon Route 53.md",
+                "file": "AWS Cloud Practitioner/Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner/Module 4. Networking/Global Networking/Amazon Route 53.md"
+                "file": "AWS Cloud Practitioner/Canvas.canvas"
               }
             }
           }
@@ -146,11 +149,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "529f6870c64bc98e",
+  "active": "6d2729b601317f1e",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner/Module 3. Global Infrastructure and Reliability/AWS Global Infrastructure/Provisioning AWS Resources/AWS CLI (Command Line Interface).md",
+    "AWS Cloud Practitioner/Module 3. Global Infrastructure and Reliability/AWS Global Infrastructure/Provisioning AWS Resources/AWS Beanstalk.md",
+    "AWS Cloud Practitioner/Canvas.canvas",
+    "AWS Cloud Practitioner/Module 4. Networking/Global Networking/Amazon Route 53.md",
     "AWS Cloud Practitioner/Images/Pasted image 20240809204407.png",
     "AWS Cloud Practitioner/Module 4. Networking/Subnets and Network Access Control List/Security Groups.md",
-    "AWS Cloud Practitioner/Module 4. Networking/Global Networking/Amazon Route 53.md",
     "AWS Cloud Practitioner/Module 4. Networking/Global Networking",
     "AWS Cloud Practitioner/Module 4. Networking/Subnets and Network Access Control List/Network ACLs (Access Control Lists).md",
     "AWS Cloud Practitioner/Module 4. Networking/Subnets and Network Access Control List/Subnets.md",
@@ -168,9 +174,7 @@
     "AWS Cloud Practitioner/Module 3. Global Infrastructure and Reliability/AWS Global Infrastructure/Provisioning AWS Resources/AWS CloudFormation.md",
     "AWS Cloud Practitioner/Module 4. Networking/Connectivity to AWS",
     "AWS Cloud Practitioner/Module 4. Networking",
-    "AWS Cloud Practitioner/Module 3. Global Infrastructure and Reliability/AWS Global Infrastructure/Provisioning AWS Resources/AWS Beanstalk.md",
     "AWS Cloud Practitioner/Module 3. Global Infrastructure and Reliability/AWS Global Infrastructure/Provisioning AWS Resources/AWS SDK (Software Development Kit).md",
-    "AWS Cloud Practitioner/Module 3. Global Infrastructure and Reliability/AWS Global Infrastructure/Provisioning AWS Resources/AWS CLI (Command Line Interface).md",
     "AWS Cloud Practitioner/Module 3. Global Infrastructure and Reliability/AWS Global Infrastructure/Provisioning AWS Resources/AWS Management Console.md",
     "AWS Cloud Practitioner/Module 3. Global Infrastructure and Reliability/AWS Global Infrastructure/Edge Locations.md",
     "AWS Cloud Practitioner/Module 3. Global Infrastructure and Reliability/AWS Global Infrastructure/Provisioning AWS Resources",
@@ -179,7 +183,6 @@
     "AWS Cloud Practitioner/Module 3. Global Infrastructure and Reliability/AWS Global Infrastructure/Selecting a Region/Feature Availability.md",
     "AWS Cloud Practitioner/Module 3. Global Infrastructure and Reliability/AWS Global Infrastructure/Selecting a Region/Proximity to your customers.md",
     "AWS Cloud Practitioner/Module 3. Global Infrastructure and Reliability/AWS Global Infrastructure/Selecting a Region/Compliance with data governance and legal requirements.md",
-    "AWS Cloud Practitioner/Canvas.canvas",
     "AWS Cloud Practitioner/Module 3. Global Infrastructure and Reliability/AWS Global Infrastructure/Selecting a Region",
     "AWS Cloud Practitioner/Module 3. Global Infrastructure and Reliability/AWS Global Infrastructure",
     "AWS Cloud Practitioner/Module 3. Global Infrastructure and Reliability",
