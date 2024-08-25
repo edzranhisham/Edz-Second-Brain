@@ -11,15 +11,8 @@
             "id": "f1bb591ff4fa33a6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "AWS Cloud Practitioner/Canvas.canvas",
-                "viewState": {
-                  "x": 497.1451430651906,
-                  "y": -857.5677472845871,
-                  "zoom": -1.5109152745597014
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AWS Cloud Practitioner/Canvas.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "AWS Cloud Practitioner/Canvas.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "AWS Cloud Practitioner/Canvas.canvas"
-          }
+          "state": {}
         }
       }
     ],
@@ -136,6 +125,7 @@
   },
   "active": "f1bb591ff4fa33a6",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner/Canvas.canvas",
     "Pasted image 20240807211623.png",
     "Pasted image 20240807211710.png",
     "Pasted image 20240807211416.png",
@@ -170,7 +160,6 @@
     "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Pricing/Reserved Instances.md",
     "AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Pricing/EC2 Instance Savings Plans.md",
     "Untitled.canvas",
-    "AWS Cloud Practitioner/Canvas.canvas",
     "Lalalal.md",
     "Test.md",
     "Welcome.md",
