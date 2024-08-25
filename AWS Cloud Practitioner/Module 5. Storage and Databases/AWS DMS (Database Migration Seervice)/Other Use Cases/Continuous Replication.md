@@ -1,0 +1,1 @@
+Sending ongoing copies of your data to other target sources instead of doing a one-time migration. This could be for disaster recovery or because of geographic separation.

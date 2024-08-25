@@ -1,0 +1,1 @@
+[**Amazon DocumentDB**(opens in a new tab)](https://aws.amazon.com/documentdb) is a document database service that supports MongoDB workloads. (MongoDB is a document database program.)

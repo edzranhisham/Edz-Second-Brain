@@ -1,0 +1,1 @@
+[**Amazon DynamoDB Accelerator (DAX)**(opens in a new tab)](https://aws.amazon.com/dynamodb/dax/) is an in-memory cache for DynamoDB. It helps improve response times from single-digit milliseconds to microseconds.
