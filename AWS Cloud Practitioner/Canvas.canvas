@@ -3,8 +3,8 @@
 		{"id":"6d99eb478457c739","type":"group","x":2700,"y":-129,"width":1820,"height":3449,"label":"Storage and Databases"},
 		{"id":"f0c168751dff8b85","type":"group","x":-1653,"y":-3560,"width":4305,"height":1060,"label":"Global Infrastructure and Reliability"},
 		{"id":"4a12b898a7d6dd02","type":"group","x":2800,"y":-2600,"width":1520,"height":2000,"label":"Compute in the Cloud"},
-		{"id":"2657afa8eb1fb0da","x":-2910,"y":-2237,"width":1460,"height":1417,"type":"group","label":"Networking"},
-		{"id":"064a88762cc8218d","x":-234,"y":-680,"width":1330,"height":671,"type":"group","label":"Cloud Computing"},
+		{"id":"2657afa8eb1fb0da","type":"group","x":-2910,"y":-2237,"width":1460,"height":1417,"label":"Networking"},
+		{"id":"064a88762cc8218d","type":"group","x":-234,"y":-680,"width":1330,"height":671,"label":"Cloud Computing"},
 		{"id":"4ede9582a015cb70","type":"file","file":"AWS Cloud Practitioner/Module 1. Cloud Computing/Deployment Models/Cloud-Based.md","x":-214,"y":-449,"width":400,"height":400},
 		{"id":"e634d74faa6a2f82","type":"file","file":"AWS Cloud Practitioner/Module 1. Cloud Computing/Deployment Models/Hybrid.md","x":231,"y":-449,"width":400,"height":400},
 		{"id":"8a48d49b09798938","type":"file","file":"AWS Cloud Practitioner/Module 1. Cloud Computing/Deployment Models/On-Premises.md","x":676,"y":-449,"width":400,"height":400},
@@ -84,7 +84,7 @@
 		{"id":"a28d3c4c435d80fa","type":"text","text":"### <center>**Directing Traffic**</center>","x":2840,"y":-1450,"width":325,"height":50},
 		{"id":"2e20a2eaf7d7f0e3","type":"text","text":"### <center>**Messaging and Queueing**</center>","x":2858,"y":-1230,"width":325,"height":80},
 		{"id":"64f1ab24909a0797","type":"text","text":"### <center>**Additional Compute Services**</center>","x":2858,"y":-835,"width":325,"height":80},
-		{"id":"1f8877805e991c25","type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Pricing/EC2 Instance Savings Plans.md","x":3320,"y":-1920,"width":400,"height":80},
+		{"id":"1f8877805e991c25","type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Pricing/EC2 Instance Savings Plans.md","x":3320,"y":-1920,"width":400,"height":50},
 		{"id":"bc6d457a1a516d08","type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Pricing/Spot Instances.md","x":3320,"y":-1800,"width":400,"height":50},
 		{"id":"c255ed715c3e80e7","type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Amazon EC2 Pricing/Dedicated Hosts.md","x":3320,"y":-1715,"width":400,"height":50},
 		{"id":"57abde8c2b490aeb","type":"file","file":"AWS Cloud Practitioner/Module 2. Compute in The Cloud/Scaling Amazon EC2/Auto Scaling.md","x":3320,"y":-1587,"width":400,"height":50},
@@ -195,6 +195,8 @@
 		{"id":"d3d8acba6aa91743","fromNode":"4320c6eff507f077","fromSide":"right","toNode":"8f3754b994f4ef49","toSide":"left"},
 		{"id":"60cd919d8307ed0a","fromNode":"8344d5d3348192e5","fromSide":"right","toNode":"4a12b898a7d6dd02","toSide":"left"},
 		{"id":"509c433324766d9d","fromNode":"2b1ed6d4825d1631","fromSide":"right","toNode":"6d99eb478457c739","toSide":"left"},
-		{"id":"c69df9bd3520e37a","fromNode":"1200c40870fe0f2d","fromSide":"right","toNode":"2b1ed6d4825d1631","toSide":"top"}
+		{"id":"c69df9bd3520e37a","fromNode":"1200c40870fe0f2d","fromSide":"right","toNode":"2b1ed6d4825d1631","toSide":"top"},
+		{"id":"ee0f1d6922a5c601","fromNode":"99f74cc3a015a4bd","fromSide":"bottom","toNode":"317073084ef1385b","toSide":"top"},
+		{"id":"81e7da162fd5cb79","fromNode":"99f74cc3a015a4bd","fromSide":"bottom","toNode":"317073084ef1385b","toSide":"top"}
 	]
 }
