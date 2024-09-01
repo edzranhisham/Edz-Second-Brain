@@ -1,0 +1,3 @@
+Have control over the AWS services and API actions that each account can access as an administrator of the primary account of an organization. You can use something called service control policies, or SCPs, to specify the maximum permissions for member accounts in the organization. 
+
+In essence, with SCPs you can restrict which AWS services, resources, and individual API actions, the users and roles in each member account can access.

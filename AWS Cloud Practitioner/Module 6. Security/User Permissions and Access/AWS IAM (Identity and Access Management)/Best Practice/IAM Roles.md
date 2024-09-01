@@ -1,0 +1,1 @@
+IAM roles are ideal for situations in which access to services or resources needs to be granted temporarily, instead of long-term.
