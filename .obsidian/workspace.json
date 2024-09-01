@@ -11,14 +11,11 @@
             "id": "6d2729b601317f1e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "AWS Cloud Practitioner/Canvas.canvas",
-                "viewState": {
-                  "x": 790.3586435166062,
-                  "y": -1757.6181489798541,
-                  "zoom": -1.6666666666666665
-                }
+                "file": "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/AWS Service and API actions Access Control.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -100,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cloud Practitioner/Canvas.canvas",
+                "file": "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/AWS Service and API actions Access Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cloud Practitioner/Canvas.canvas",
+                "file": "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/AWS Service and API actions Access Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cloud Practitioner/Canvas.canvas"
+                "file": "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/AWS Service and API actions Access Control.md"
               }
             }
           }
@@ -163,52 +160,52 @@
   },
   "active": "6d2729b601317f1e",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Organizational Unit.md",
+    "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Pasted image 20240901173139.png",
+    "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Pasted image 20240901173051.png",
+    "AWS Cloud Practitioner/Images/Pasted image 20240807211416.png",
+    "AWS Cloud Practitioner/Images/Pasted image 20240807210913.png",
+    "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Pasted image 20240901173104.png",
+    "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Hierarchical Groupings of Accounts.md",
+    "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/AWS Service and API actions Access Control.md",
+    "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Consolidated Billing.md",
+    "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Centralized Management.md",
+    "AWS Cloud Practitioner/Module 6. Security/AWS Shared Responsibility Model/Model.md",
+    "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations",
+    "AWS Cloud Practitioner/Images/Pasted image 20240901171249.png",
+    "AWS Cloud Practitioner/Module 6. Security/AWS Shared Responsibility Model/AWS - Security of the Cloud.md",
+    "AWS Cloud Practitioner/Module 6. Security/AWS Shared Responsibility Model/Customers - Security in the Cloud.md",
+    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/MFA (Multi-Factor Authentication).md",
+    "AWS Cloud Practitioner/Module 6. Security/AWS Shared Responsibility Model",
+    "AWS Cloud Practitioner/Module 6. Security/Untitled.md",
+    "AWS Cloud Practitioner/Module 6. Security/Shared Responsibility Model/Shared Res.md",
+    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/Best Practice/IAM Roles.md",
+    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/IAM Groups.md",
+    "AWS Cloud Practitioner/Images/Pasted image 20240901170814.png",
+    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/Policies.md",
+    "AWS Cloud Practitioner/Images/Pasted image 20240901170733.png",
+    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/Best Practice/Least Privileged Principle.md",
+    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/Best Practice/Individual IAM Users.md",
+    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/IAM Users.md",
+    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/Best Practice/Limit tasks for Root User.md",
+    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/Account Root User.md",
+    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/Best Practice",
+    "AWS Cloud Practitioner/Canvas.canvas",
+    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)",
+    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access",
+    "AWS Cloud Practitioner/Module 6. Security/Shared Responsibility Model/Untitled",
+    "AWS Cloud Practitioner/Module 6. Security/Shared Responsibility Model",
+    "AWS Cloud Practitioner/Module 6. Security",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon Redshift/Redshift.md",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon Redshift",
-    "AWS Cloud Practitioner/Canvas.canvas",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services/Amazon DynamoDB Accelerator.md",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services/Amazon ElastiCache.md",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services/Amazon Managed Blockchain.md",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services/Amazone QLDB (Quantum Ledger Database).md",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services/Amazon Neptune.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services/Amazon DocumentDB.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/AWS DMS (Database Migration Seervice)/Other Use Cases/Development and test database migrations.md",
     "AWS Cloud Practitioner/Module 5. Storage and Databases/Additional Database Services",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/AWS DMS (Database Migration Seervice)/Other Use Cases/Database Consolidation.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/AWS DMS (Database Migration Seervice)/Other Use Cases/Continuous Replication.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/AWS DMS (Database Migration Seervice)/AWS Database Migration Service.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/AWS DMS (Database Migration Seervice)/Other Use Cases",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/AWS DMS (Database Migration Seervice)/Other Use Cases.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/AWS DMS (Database Migration Seervice)",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon DynamoDB/DynamoDB.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon Redshift",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon DynamoDB/Nonrelational databases.md",
     "AWS Cloud Practitioner/Images/Pasted image 20240825153112.png",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon RDS (Relational Database Service)/Amazon Aurora.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon DynamoDB",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon RDS (Relational Database Service)/Engines.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon RDS (Relational Database Service)/Amazon RDS.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon RDS (Relational Database Service)/Relational Databases.md",
     "AWS Cloud Practitioner/Images/Pasted image 20240825152901.png",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon EFS (Elastic File System)/Amazon EBS vs Amazon EFS.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon RDS (Relational Database Service)",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon EFS (Elastic File System)/File Storage.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon S3 (Simple Storage Service)/Storage Classes/S3 Outposts.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon EFS (Elastic File System)",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon EFS (Elastic File System).md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon EFS (Elastic File System)",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon S3 (Simple Storage Service)/Storage Classes/S3 Glacier Deep Archive.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon S3 (Simple Storage Service)/Storage Classes/S3 Glacier Flexible Retrieval.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon S3 (Simple Storage Service)/Storage Classes/S3 Glacier Instant Retrieval.md",
-    "AWS Cloud Practitioner/Module 5. Storage and Databases/Amazon S3 (Simple Storage Service)/Storage Classes",
-    "AWS Cloud Practitioner/Images/Pasted image 20240825141155.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240825140637.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240825140546.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240809204407.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240807210913.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240809202827.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240809202616.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240809202601.png",
     "Untitled.canvas"
   ]
 }

@@ -1,0 +1,3 @@
+When you first create an AWS account, you begin with an identity known as the [**root user**(opens in a new tab)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html). 
+
+The root user is accessed by signing in with the email address and password that you used to create your AWS account. You can think of the root user as being similar to the owner of the coffee shop. It has complete access to all the AWS services and resources in the account.

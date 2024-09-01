@@ -1,0 +1,3 @@
+Have you ever signed in to a website that required you to provide multiple pieces of information to verify your identity? You might have needed to provide your password and then a second form of authentication, such as a random code sent to your phone. This is an example of [**multi-factor authentication**(opens in a new tab)](https://aws.amazon.com/iam/features/mfa/).
+
+You can enable MFA for the root user and IAM users. As a best practice, enable MFA for the root user and all IAM users in your account.
