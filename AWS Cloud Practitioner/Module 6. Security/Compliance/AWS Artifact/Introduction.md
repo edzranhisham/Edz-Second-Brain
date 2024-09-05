@@ -1,0 +1,3 @@
+Depending on your company’s industry, you may need to uphold specific standards. An audit or inspection will ensure that the company has met those standards.
+
+[**AWS Artifact**(opens in a new tab)](https://aws.amazon.com/artifact) is a service that provides on-demand access to AWS security and compliance reports and select online agreements. AWS Artifact consists of two main sections: AWS Artifact Agreements and AWS Artifact Reports.
