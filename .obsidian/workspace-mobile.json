@@ -11,12 +11,8 @@
             "id": "f1bb591ff4fa33a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Hierarchical Groupings of Accounts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Hierarchical Groupings of Accounts.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Hierarchical Groupings of Accounts.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Hierarchical Groupings of Accounts.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -133,53 +125,52 @@
   },
   "active": "b6f337875ba80cf3",
   "lastOpenFiles": [
-    "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Organizational Unit.md",
+    "AWS Cloud Practitioner/Canvas.canvas",
     "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Hierarchical Groupings of Accounts.md",
-    "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Centralized Management.md",
-    "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/AWS Service and API actions Access Control.md",
-    "AWS Cloud Practitioner/Module 6. Security/AWS Shared Responsibility Model/AWS - Security of the Cloud.md",
-    "AWS Cloud Practitioner/Module 6. Security/Denial-of-Service Attacks (DDOS)/Distributed denial-of-service attacks.md",
-    "AWS Cloud Practitioner/Module 6. Security/Denial-of-Service Attacks (DDOS)/AWS Shield Advanced.md",
-    "AWS Cloud Practitioner/Module 6. Security/Denial-of-Service Attacks (DDOS)/AWS Shield.md",
-    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/Policies.md",
-    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/IAM Groups.md",
-    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/IAM Users.md",
-    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/Best Practice/IAM Roles.md",
-    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/Best Practice/Individual IAM Users.md",
-    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/Best Practice/Least Privileged Principle.md",
-    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/Best Practice/Limit tasks for Root User.md",
-    "AWS Cloud Practitioner/Module 6. Security/Compliance/Customer Compliance Center.md",
-    "AWS Cloud Practitioner/Module 6. Security/Compliance/AWS Artifact/Artifact Reports.md",
-    "AWS Cloud Practitioner/Module 6. Security/Compliance/AWS Artifact/Introduction.md",
-    "AWS Cloud Practitioner/Module 6. Security/Compliance/AWS Artifact/Artifact Argreements.md",
-    "AWS Cloud Practitioner/Module 6. Security/Additional Security Services/AWS KMS (Key Management System).md",
+    "AWS Cloud Practitioner/Images/Pasted image 20240908134909.png",
+    "AWS Cloud Practitioner/Images/Pasted image 20240908134742.png",
+    "AWS Cloud Practitioner/Images/Pasted image 20240906212052.png",
+    "AWS Cloud Practitioner/Images/Pasted image 20240908135102.png",
+    "AWS Cloud Practitioner/Images/Pasted image 20240908135137.png",
+    "AWS Cloud Practitioner/Images/Pasted image 20240906211249.png",
+    "AWS Cloud Practitioner/Images/Pasted image 20240908134831.png",
+    "AWS Cloud Practitioner/Images/Pasted image 20240908135455.png",
+    "AWS Cloud Practitioner/Module 7. Monitoring and Analytics/AWS CloudTrail.md",
+    "AWS Cloud Practitioner/Images/Pasted image 20240908135230.png",
+    "AWS Cloud Practitioner/Images/Pasted image 20240908135319.png",
+    "AWS Cloud Practitioner/Module 7. Monitoring and Analytics/CloudTrail Insights.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Pay less with volume-based discounts when you use more.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Pay for what you use.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Pay less when you reserve.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Free Tier/Always Free.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Budgets.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Free Tier",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/Billing Dashboard.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/AWS Pricing Calculator.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/TAM (Technical Account Manager).md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/Basic Support.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Examples/EC2.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Examples/S3.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Examples/Lambda.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Examples",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/Consolidated Billing.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Cost Explorer.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/Enterprise Support.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Marketplace.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Free Tier/12 Months Free.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/Developer Support.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/Enterprise On-Ramp Support.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Free Tier/Trials.md",
+    "AWS Cloud Practitioner/Module 7. Monitoring and Analytics/AWS Trusted Advisor.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/Business Support.md",
     "AWS Cloud Practitioner/Module 6. Security/Additional Security Services",
-    "AWS Cloud Practitioner/Module 6. Security/Additional Security Services/Amazon Inspector.md",
-    "AWS Cloud Practitioner/Module 7. Monitoring and Analytics/CloudWatch Dashboard.md",
     "AWS Cloud Practitioner/Module 7. Monitoring and Analytics",
-    "AWS Cloud Practitioner/Module 6. Security/Additional Security Services/AWS WAF (Web Application Firewall).md",
-    "AWS Cloud Practitioner/Images/Pasted image 20240905220815.png",
-    "AWS Cloud Practitioner/Module 6. Security/Additional Security Services/Amazon GuardDuty.md",
-    "AWS Cloud Practitioner/Module 7. Monitoring and Analytics/Amazon CloudWatch.md",
-    "AWS Cloud Practitioner/Images/Pasted image 20240904215602.png",
     "AWS Cloud Practitioner/Module 6. Security/Compliance/AWS Artifact",
     "AWS Cloud Practitioner/Module 6. Security/Compliance",
-    "AWS Cloud Practitioner/Module 7. Monitoring and Analytics/CloudWatch Alarms.md",
     "AWS Cloud Practitioner/Module 6. Security/Denial-of-Service Attacks (DDOS)",
-    "AWS Cloud Practitioner/Module 6. Security/AWS Shared Responsibility Model",
-    "AWS Cloud Practitioner/Module 6. Security",
-    "AWS Cloud Practitioner/Images/Pasted image 20240901171249.png",
-    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access",
-    "AWS Cloud Practitioner/Images/Pasted image 20240901170733.png",
-    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)/Best Practice",
-    "AWS Cloud Practitioner/Module 6. Security/User Permissions and Access/AWS IAM (Identity and Access Management)",
-    "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Pasted image 20240901173051.png",
-    "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Pasted image 20240901173139.png",
-    "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Pasted image 20240901173104.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240901170814.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240825153112.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240825140637.png",
-    "AWS Cloud Practitioner/Canvas.canvas",
     "Untitled.canvas"
   ]
 }
