@@ -13,6 +13,15 @@
             "state": {
               "type": "empty",
               "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "AWS Cloud Practitioner/Canvas.canvas",
+                "viewState": {
+                  "x": 867.3461442853179,
+                  "y": -3091.340045913958,
+                  "zoom": -1.7985631278720777
+                }
+              }
             }
           }
         ]
