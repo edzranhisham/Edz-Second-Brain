@@ -1,27 +1,18 @@
 {
   "main": {
-    "id": "a7ce16ce9b4f6d63",
+    "id": "d1800ea241db06e9",
     "type": "split",
     "children": [
       {
-        "id": "b48c6fdc4307f4fd",
+        "id": "f41966eeced39cb1",
         "type": "tabs",
         "children": [
           {
-            "id": "f1bb591ff4fa33a6",
+            "id": "182fadac1f88c202",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-              "type": "canvas",
-              "state": {
-                "file": "AWS Cloud Practitioner/Canvas.canvas",
-                "viewState": {
-                  "x": 867.3461442853179,
-                  "y": -3091.340045913958,
-                  "zoom": -1.7985631278720777
-                }
-              }
             }
           }
         ]
@@ -30,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6ac5ca61f9fa0347",
+    "id": "dadbee7ea3f24419",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b6f337875ba80cf3",
+        "id": "59eb367c1cc33e04",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +35,7 @@
         }
       },
       {
-        "id": "9f26f15c192c1569",
+        "id": "298c2d830ef2d8e5",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -59,7 +50,7 @@
         }
       },
       {
-        "id": "b36c730cb9b4fd84",
+        "id": "7a24651deed5ebd6",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -70,7 +61,7 @@
         }
       },
       {
-        "id": "dbedcea981a2106d",
+        "id": "7018c9b95aa149b6",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -81,11 +72,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "2ef36da883a11e5a",
+    "id": "0ff5986ce3974d7b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "fd4974136ea3aec2",
+        "id": "55cc059e50fb75aa",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -101,7 +92,7 @@
         }
       },
       {
-        "id": "d7a1b5f43ae1fdd4",
+        "id": "fdf50ecdc7d77736",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -112,7 +103,7 @@
         }
       },
       {
-        "id": "81b64f4d058bc060",
+        "id": "15ef098cba425384",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -132,54 +123,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6f337875ba80cf3",
+  "active": "182fadac1f88c202",
   "lastOpenFiles": [
-    "AWS Cloud Practitioner/Canvas.canvas",
-    "AWS Cloud Practitioner/Module 6. Security/AWS Oragnaizations/Hierarchical Groupings of Accounts.md",
-    "AWS Cloud Practitioner/Images/Pasted image 20240908134909.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240908134742.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240906212052.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240908135102.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240908135137.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240906211249.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240908134831.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240908135455.png",
-    "AWS Cloud Practitioner/Module 7. Monitoring and Analytics/AWS CloudTrail.md",
-    "AWS Cloud Practitioner/Images/Pasted image 20240908135230.png",
-    "AWS Cloud Practitioner/Images/Pasted image 20240908135319.png",
-    "AWS Cloud Practitioner/Module 7. Monitoring and Analytics/CloudTrail Insights.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Pay less with volume-based discounts when you use more.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Pay for what you use.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Pay less when you reserve.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Free Tier/Always Free.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Budgets.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Free Tier",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/Billing Dashboard.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/AWS Pricing Calculator.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/TAM (Technical Account Manager).md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/Basic Support.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Examples/EC2.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Examples/S3.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Examples/Lambda.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Examples",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/Consolidated Billing.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Cost Explorer.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/Enterprise Support.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Marketplace.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Free Tier/12 Months Free.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/Developer Support.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/Enterprise On-Ramp Support.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Free Tier/Trials.md",
-    "AWS Cloud Practitioner/Module 7. Monitoring and Analytics/AWS Trusted Advisor.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/Business Support.md",
-    "AWS Cloud Practitioner/Module 6. Security/Additional Security Services",
-    "AWS Cloud Practitioner/Module 7. Monitoring and Analytics",
-    "AWS Cloud Practitioner/Module 6. Security/Compliance/AWS Artifact",
-    "AWS Cloud Practitioner/Module 6. Security/Compliance",
-    "AWS Cloud Practitioner/Module 6. Security/Denial-of-Service Attacks (DDOS)",
-    "Untitled.canvas"
+    "AWS Cloud Practitioner/Canvas.canvas"
   ]
 }
