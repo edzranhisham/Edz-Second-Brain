@@ -1,0 +1,1 @@
+For each service, you pay for exactly the amount of resources that you actually use, without requiring long-term contracts or complex licensing.

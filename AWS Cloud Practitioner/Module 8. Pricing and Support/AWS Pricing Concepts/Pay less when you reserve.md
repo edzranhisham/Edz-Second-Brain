@@ -1,0 +1,3 @@
+Some services offer reservation options that provide a significant discount compared to On-Demand Instance pricing.
+
+For example, suppose that your company is using Amazon EC2 instances for a workload that needs to run continuously. You might choose to run this workload on Amazon EC2 Instance Savings Plans, because the plan allows you to save up to 72% over the equivalent On-Demand Instance capacity.
