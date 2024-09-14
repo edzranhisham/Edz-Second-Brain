@@ -11,11 +11,39 @@
             "id": "d2616204560fb6a2",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Marketplace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ee9964eef838688",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "908546bff9922faa",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "AWS Cloud Practitioner/Canvas_backup.canvas",
+                "viewState": {
+                  "x": 275.60808684214703,
+                  "y": -2030.9999987593992,
+                  "zoom": -1.5270451724465084
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AWS Cloud Practitioner/Canvas_backup.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AWS Cloud Practitioner/Canvas_backup.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AWS Cloud Practitioner/Canvas_backup.canvas"
+              }
             }
           }
         ]
@@ -138,12 +170,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2616204560fb6a2",
+  "active": "908546bff9922faa",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner/AWS CP.Canvas",
     "AWS Cloud Practitioner/Canvas.canvas",
+    "AWS Cloud Practitioner/Canvas_backup.canvas",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Marketplace.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/Billing Dashboard.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/Consolidated Billing.md",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Free Tier/12 Months Free.md",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Free Tier/Always Free.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Marketplace.md",
     "AWS Cloud Practitioner/Images/Pasted image 20240908135936.png",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/TAM (Technical Account Manager).md",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/Enterprise Support.md",
@@ -158,12 +194,10 @@
     "AWS Cloud Practitioner/Images/Pasted image 20240908135455.png",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Budgets.md",
     "AWS Cloud Practitioner/Images/Pasted image 20240908135319.png",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/Consolidated Billing.md",
     "AWS Cloud Practitioner/Images/Pasted image 20240908135230.png",
     "AWS Cloud Practitioner/Images/Pasted image 20240908135158.png",
     "AWS Cloud Practitioner/Images/Pasted image 20240908135137.png",
     "AWS Cloud Practitioner/Images/Pasted image 20240908135102.png",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/Billing Dashboard.md",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Examples/Lambda.md",
     "AWS Cloud Practitioner/Images/Pasted image 20240908134909.png",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Examples/S3.md",
