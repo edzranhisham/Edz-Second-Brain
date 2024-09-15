@@ -11,8 +11,15 @@
             "id": "182fadac1f88c202",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "AWS Cloud Practitioner/Canvas_backup.canvas",
+                "viewState": {
+                  "x": 3168.732797803328,
+                  "y": -1599.9798638570758,
+                  "zoom": -1.4100426937885913
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "AWS Cloud Practitioner/Canvas_backup.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "AWS Cloud Practitioner/Canvas_backup.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +116,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "AWS Cloud Practitioner/Canvas_backup.canvas"
+          }
         }
       }
     ],
@@ -125,6 +136,7 @@
   },
   "active": "182fadac1f88c202",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner/Canvas_backup.canvas",
     "AWS Cloud Practitioner/Canvas.canvas"
   ]
 }
