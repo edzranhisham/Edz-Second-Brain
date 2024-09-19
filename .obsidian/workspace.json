@@ -20,30 +20,46 @@
             }
           },
           {
-            "id": "0ee9964eef838688",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "908546bff9922faa",
+            "id": "bfd997d35b9bbcf9",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "AWS Cloud Practitioner/Canvas_backup.canvas",
                 "viewState": {
-                  "x": 275.60808684214703,
-                  "y": -2030.9999987593992,
-                  "zoom": -1.5270451724465084
+                  "x": 1331.8404611638637,
+                  "y": -1598.0744802409852,
+                  "zoom": -2.056285031447102
                 }
+              }
+            }
+          },
+          {
+            "id": "0ee9964eef838688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Pay less with volume-based discounts when you use more.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "908546bff9922faa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/AWS Pricing Calculator.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,12 +186,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "908546bff9922faa",
+  "active": "bfd997d35b9bbcf9",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Cost Explorer.md",
+    "AWS Cloud Practitioner/Canvas_backup.canvas",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Pay less with volume-based discounts when you use more.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/AWS Pricing Calculator.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Marketplace.md",
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Pay for what you use.md",
     "AWS Cloud Practitioner/AWS CP.Canvas",
     "AWS Cloud Practitioner/Canvas.canvas",
-    "AWS Cloud Practitioner/Canvas_backup.canvas",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Marketplace.md",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/Billing Dashboard.md",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/Consolidated Billing.md",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Free Tier/12 Months Free.md",
@@ -188,7 +208,6 @@
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/Developer Support.md",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/Basic Support.md",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans/Developer, Business, Enterprise On-Ramp, and Enterprise Support.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Cost Explorer.md",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Support Plans",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/AWS Support Plans.md",
     "AWS Cloud Practitioner/Images/Pasted image 20240908135455.png",
@@ -204,11 +223,8 @@
     "AWS Cloud Practitioner/Images/Pasted image 20240908134831.png",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Examples/EC2.md",
     "AWS Cloud Practitioner/Images/Pasted image 20240908134742.png",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/AWS Pricing Calculator.md",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Examples",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Pay less with volume-based discounts when you use more.md",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Pay less when you reserve.md",
-    "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts/Pay for what you use.md",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Free Tier/Trials.md",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Pricing Concepts",
     "AWS Cloud Practitioner/Module 8. Pricing and Support/AWS Free Tier",
