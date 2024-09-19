@@ -15,9 +15,9 @@
               "state": {
                 "file": "AWS Cloud Practitioner/Canvas_backup.canvas",
                 "viewState": {
-                  "x": 215.79373687720044,
-                  "y": -444.04448855355514,
-                  "zoom": -2.6660778661135374
+                  "x": 609.0755777634033,
+                  "y": -1238.3735702432368,
+                  "zoom": -3.1261787975909336
                 }
               }
             }
@@ -134,8 +134,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59eb367c1cc33e04",
+  "active": "182fadac1f88c202",
   "lastOpenFiles": [
+    "AWS Cloud Practitioner/Module 8. Pricing and Support/Consolidated Billing.md",
     "AWS Cloud Practitioner/Canvas_backup.canvas",
     "AWS Cloud Practitioner/Canvas.canvas"
   ]
